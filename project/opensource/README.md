@@ -25,7 +25,7 @@ project/opensource/
 
 | 项目名称 | 目录路径 | 仓库地址 | 描述 |
 |---------|---------|---------|------|
-| - | - | - | - |
+| system-prompts-and-models-of-ai-tools | project/opensource/system-prompts-and-models-of-ai-tools | https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools | 收集了 30+ AI 工具的系统提示词、内部工具和 AI 模型，包括 Claude Code、Cursor、Devin AI、Replit、Trae、Windsurf 等 |
 
 > 说明：上表将在添加第一个开源项目后自动更新
 
