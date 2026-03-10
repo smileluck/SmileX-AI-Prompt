@@ -15,9 +15,11 @@ model: 通用
 ## 目录结构
 
 ```
-project/opensource/
+project/
 ├── README.md              # 本说明文件
-├── [项目名称]/            # 各个开源项目目录
+├── opensource/            # 开源项目目录
+│   ├── system-prompts-and-models-of-ai-tools/  # AI 工具系统提示词和模型
+│   └── [其他项目]/        # 其他开源项目目录（通过 Git Submodule 管理）
 └── .gitmodules           # Git Submodule 配置文件
 ```
 
