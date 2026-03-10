@@ -1,3 +1,6 @@
 [submodule "project/opensource/system-prompts-and-models-of-ai-tools"]
 	path = project/opensource/system-prompts-and-models-of-ai-tools
 	url = git@github.com:x1xhlol/system-prompts-and-models-of-ai-tools.git
+[submodule "project/web-clone/luma-front"]
+	path = project/web-clone/luma-front
+	url = https://github.com/words-of-wisdom/luma-front
