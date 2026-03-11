@@ -1,6 +1,6 @@
 ---
 name: 开源项目管理
-version: 1.0.0
+version: 1.1.0
 author: SmileX
 date: 2026-03-10
 tags: [opensource, submodule, git]
@@ -20,6 +20,9 @@ project/
 ├── opensource/            # 开源项目目录
 │   ├── system-prompts-and-models-of-ai-tools/  # AI 工具系统提示词和模型
 │   └── [其他项目]/        # 其他开源项目目录（通过 Git Submodule 管理）
+├── web-clone/             # Web克隆项目目录
+│   ├── luma-front/        # Luma Front 项目
+│   └── [其他项目]/        # 其他Web克隆项目目录（通过 Git Submodule 管理）
 └── .gitmodules           # Git Submodule 配置文件
 ```
 
@@ -28,8 +31,7 @@ project/
 | 项目名称 | 目录路径 | 仓库地址 | 描述 |
 |---------|---------|---------|------|
 | system-prompts-and-models-of-ai-tools | project/opensource/system-prompts-and-models-of-ai-tools | https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools | 收集了 30+ AI 工具的系统提示词、内部工具和 AI 模型，包括 Claude Code、Cursor、Devin AI、Replit、Trae、Windsurf 等 |
-
-> 说明：上表将在添加第一个开源项目后自动更新
+| luma-front | project/web-clone/luma-front | https://github.com/words-of-wisdom/luma-front | Web克隆项目 |
 
 ## 使用指南
 
@@ -168,4 +170,5 @@ git push
 
 ## 更新日志
 
+- 2026-03-10: v1.1.0 - 添加 luma-front 项目到 web-clone 目录
 - 2026-03-10: v1.0.0 - 初始版本，创建 Submodule 管理指南
