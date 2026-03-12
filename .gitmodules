@@ -4,3 +4,6 @@
 [submodule "project/web-clone/luma-front"]
 	path = project/web-clone/luma-front
 	url = https://github.com/words-of-wisdom/luma-front
+[submodule "project/tools/cc-switch"]
+	path = project/tools/cc-switch
+	url = https://github.com/farion1231/cc-switch
