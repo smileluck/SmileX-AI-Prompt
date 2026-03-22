@@ -20,18 +20,36 @@ project/
 ├── opensource/            # 开源项目目录
 │   ├── system-prompts-and-models-of-ai-tools/  # AI 工具系统提示词和模型
 │   └── [其他项目]/        # 其他开源项目目录（通过 Git Submodule 管理）
+├── llm/                   # LLM 仓库追踪目录
+│   ├── awesome-llm-apps/ # awesome-llm-apps 追踪信息
+│   └── [其他项目]/        # 其他 LLM 相关仓库
 ├── web-clone/             # Web克隆项目目录
 │   ├── luma-front/        # Luma Front 项目
 │   └── [其他项目]/        # 其他Web克隆项目目录（通过 Git Submodule 管理）
 └── .gitmodules           # Git Submodule 配置文件
 ```
 
-## 已添加的开源项目
+## 已追踪的仓库
+
+### LLM 相关
+
+| 项目名称 | 目录路径 | 仓库地址 | 描述 |
+|---------|---------|---------|------|
+| awesome-llm-apps | project/llm/awesome-llm-apps | https://github.com/Shubhamsaboo/awesome-llm-apps | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. ⭐ 103090 |
+
+### 开源项目
 
 | 项目名称 | 目录路径 | 仓库地址 | 描述 |
 |---------|---------|---------|------|
 | system-prompts-and-models-of-ai-tools | project/opensource/system-prompts-and-models-of-ai-tools | https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools | 收集了 30+ AI 工具的系统提示词、内部工具和 AI 模型，包括 Claude Code、Cursor、Devin AI、Replit、Trae、Windsurf 等 |
 | luma-front | project/web-clone/luma-front | https://github.com/words-of-wisdom/luma-front | Web克隆项目 |
+
+### Git Submodule
+
+> 以下项目通过 Git Submodule 管理：
+
+| 项目名称 | 目录路径 | 仓库地址 | 描述 |
+|---------|---------|---------|------|
 
 ## 使用指南
 
