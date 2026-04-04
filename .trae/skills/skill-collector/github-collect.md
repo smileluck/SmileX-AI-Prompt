@@ -1,9 +1,4 @@
----
-name: "repo-collector"
-description: "Automatically tracks GitHub repositories without cloning. Invoke when user says '将某个github的地址收录' or requests to add/include a GitHub repository."
----
-
-# Repository Collector
+# GitHub Repository Collector
 
 ## 功能描述
 

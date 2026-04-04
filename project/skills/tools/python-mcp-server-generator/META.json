@@ -1,0 +1,11 @@
+{
+  "name": "python-mcp-server-generator",
+  "source": "skills.sh",
+  "source_url": "https://skills.sh/github/awesome-copilot/python-mcp-server-generator",
+  "github_url": null,
+  "author": "github/awesome-copilot",
+  "category": "tools",
+  "collected_at": "2026-04-04",
+  "description": "Generate Python MCP Server - Create a complete Model Context Protocol (MCP) server in Python with proper structure, type hints, and error handling.",
+  "tags": ["python", "mcp", "server", "generator", "llm", "claude"]
+}

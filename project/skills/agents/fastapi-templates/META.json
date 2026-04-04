@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-templates",
+  "source": "skills.sh",
+  "source_url": "https://skills.sh/wshobson/agents/fastapi-templates",
+  "github_url": null,
+  "author": "wshobson",
+  "category": "agents",
+  "collected_at": "2026-04-04",
+  "description": "Production-ready FastAPI project structures with async patterns, dependency injection, middleware, and best practices for building high-performance APIs.",
+  "tags": ["fastapi", "python", "api", "async", "templates", "boilerplate"]
+}

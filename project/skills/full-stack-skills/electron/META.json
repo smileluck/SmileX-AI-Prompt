@@ -1,0 +1,11 @@
+{
+  "name": "electron",
+  "source": "skills.sh",
+  "source_url": "https://skills.sh/teachingai/full-stack-skills/electron",
+  "github_url": null,
+  "author": "teachingai",
+  "category": "full-stack-skills",
+  "collected_at": "2026-04-04",
+  "description": "Electron 跨平台桌面应用开发 - 包含主进程、渲染进程、IPC通信、窗口管理、菜单、托盘、打包等完整开发指南",
+  "tags": ["electron", "desktop", "cross-platform", "javascript", "nodejs", "ipc", "窗口", "菜单", "托盘", "打包"]
+}
