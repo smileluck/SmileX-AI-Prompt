@@ -7,11 +7,14 @@
 ```
 skills/
 ├── agents/              # Agent 类型技能
-│   └── fastapi-templates/
+│   ├── fastapi-templates/
+│   └── react-state-management/
 ├── tools/               # Tool 类型技能
 │   └── python-mcp-server-generator/
 ├── full-stack-skills/   # 全栈技能
 │   └── electron/
+├── agent-toolkit/       # Agent 工具包
+│   └── react-dev/
 └── prompts/             # Prompt 类型技能
 ```
 
@@ -34,6 +37,12 @@ skills/
 | 技能名称 | 来源 | 收录时间 | 描述 |
 |---------|------|---------|------|
 | [electron](./full-stack-skills/electron/) | skills.sh/teachingai/full-stack-skills | 2026-04-04 | Electron 跨平台桌面应用开发，包含主进程、渲染进程、IPC通信、窗口管理等完整指南 |
+
+### Agent Toolkit
+
+| 技能名称 | 来源 | 收录时间 | 描述 |
+|---------|------|---------|------|
+| [react-dev](./agent-toolkit/react-dev/) | skills.sh/softaworks/agent-toolkit | 2026-04-04 | React TypeScript 开发技能，包含组件模式、事件处理、Hooks 类型、泛型组件、React 19 新特性 |
 
 ## 使用说明
 

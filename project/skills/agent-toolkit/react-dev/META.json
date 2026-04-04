@@ -1,0 +1,11 @@
+{
+  "name": "react-dev",
+  "source": "skills.sh",
+  "source_url": "https://skills.sh/softaworks/agent-toolkit/react-dev",
+  "github_url": null,
+  "author": "softaworks",
+  "category": "agent-toolkit",
+  "collected_at": "2026-04-04",
+  "description": "React TypeScript 开发技能 - 类型安全的 React 组件开发、React 19 新特性、事件处理、Hooks 类型、泛型组件",
+  "tags": ["react", "typescript", "frontend", "hooks", "components", "react19"]
+}

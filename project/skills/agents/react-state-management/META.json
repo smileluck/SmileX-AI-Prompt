@@ -1,0 +1,11 @@
+{
+  "name": "react-state-management",
+  "source": "skills.sh",
+  "source_url": "https://skills.sh/wshobson/agents/react-state-management",
+  "github_url": null,
+  "author": "wshobson",
+  "category": "agents",
+  "collected_at": "2026-04-04",
+  "description": "React 状态管理综合指南 - 从本地组件状态到全局存储和服务器状态同步，涵盖 Redux Toolkit、Zustand、Jotai、React Query",
+  "tags": ["react", "state-management", "redux", "zustand", "jotai", "react-query"]
+}
