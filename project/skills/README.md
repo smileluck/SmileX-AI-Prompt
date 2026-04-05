@@ -25,6 +25,7 @@ skills/
 | 技能名称 | 来源 | 收录时间 | 描述 |
 |---------|------|---------|------|
 | [fastapi-templates](./agents/fastapi-templates/) | skills.sh/wshobson/agents | 2026-04-04 | Production-ready FastAPI 项目模板，包含异步模式、依赖注入、中间件等最佳实践 |
+| [react-state-management](./agents/react-state-management/) | skills.sh/wshobson/agents | 2026-04-04 | React 状态管理综合指南，涵盖 Redux Toolkit、Zustand、Jotai、React Query 等方案 |
 
 ### Tools
 
