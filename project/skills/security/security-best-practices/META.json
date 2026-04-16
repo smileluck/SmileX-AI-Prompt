@@ -1,0 +1,10 @@
+{
+  "name": "security-best-practices",
+  "version": "1.0.0",
+  "author": "openai",
+  "source": "skills.sh",
+  "source_url": "https://skills.sh/openai/skills/security-best-practices",
+  "category": "security",
+  "collected_at": "2026-04-15",
+  "description": "识别项目语言和框架的安全最佳实践，提供安全代码编写指导和漏洞检测能力"
+}

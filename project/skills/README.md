@@ -15,6 +15,12 @@ skills/
 │   └── electron/
 ├── agent-toolkit/       # Agent 工具包
 │   └── react-dev/
+├── security/            # 安全相关技能
+│   └── security-best-practices/
+├── superpowers/        # Superpowers 系列技能
+│   └── brainstorming/
+├── frontend/           # 前端设计技能
+│   └── frontend-design/
 └── prompts/             # Prompt 类型技能
 ```
 
@@ -44,6 +50,24 @@ skills/
 | 技能名称 | 来源 | 收录时间 | 描述 |
 |---------|------|---------|------|
 | [react-dev](./agent-toolkit/react-dev/) | skills.sh/softaworks/agent-toolkit | 2026-04-04 | React TypeScript 开发技能，包含组件模式、事件处理、Hooks 类型、泛型组件、React 19 新特性 |
+
+### Security
+
+| 技能名称 | 来源 | 收录时间 | 描述 |
+|---------|------|---------|------|
+| [security-best-practices](./security/security-best-practices/) | skills.sh/openai/skills | 2026-04-15 | OpenAI 安全最佳实践技能，提供语言/框架识别、安全代码编写指导、漏洞检测和安全报告生成 |
+
+### Superpowers
+
+| 技能名称 | 来源 | 收录时间 | 描述 |
+|---------|------|---------|------|
+| [brainstorming](./superpowers/brainstorming/) | skills.sh/obra/superpowers | 2026-04-15 | 通过自然协作对话将想法转化为完整设计和规格的头脑风暴技能 |
+
+### Frontend
+
+| 技能名称 | 来源 | 收录时间 | 描述 |
+|---------|------|---------|------|
+| [frontend-design](./frontend/frontend-design/) | skills.sh/anthropics/skills | 2026-04-15 | 指导创建独特、生产级前端界面的技能，避免通用 AI 风格，注重美学细节和创意实现 |
 
 ## 使用说明
 
