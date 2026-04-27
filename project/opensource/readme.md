@@ -33,3 +33,12 @@
 - **许可证**: MIT
 - **描述**: DESIGN.md 文件集合，从热门网站提取设计系统。将 DESIGN.md 放入项目，AI 代理即可生成匹配的 UI。包含 Claude、Cursor、Vercel、Linear、Stripe 等 40+ 网站的设计系统文档。
 - **主题**: design-system, design-md, ai-agents, ui-generation
+
+### [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
+- **收录时间**: 2026-04-27
+- **星标**: ⭐ 10,961
+- **Fork**: 1,671
+- **语言**: Python
+- **许可证**: GPL-3.0
+- **描述**: 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件。支持 API 调用和 MCP 服务。
+- **主题**: xiaohongshu, rednote, download, python, fastapi, httpx, docker, mcp-server, userscript, tampermonkey
