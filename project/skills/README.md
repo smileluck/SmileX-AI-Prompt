@@ -49,6 +49,7 @@ skills/
 
 | 技能名称 | 来源 | 收录时间 | 描述 |
 |---------|------|---------|------|
+| [agent-skills](./agent-toolkit/agent-skills/) | github.com/addyosmani | 2026-04-30 | Production-grade engineering skills for AI coding agents，包含 20 个结构化技能涵盖 Define-Plan-Build-Verify-Review-Ship 全流程 |
 | [react-dev](./agent-toolkit/react-dev/) | skills.sh/softaworks/agent-toolkit | 2026-04-04 | React TypeScript 开发技能，包含组件模式、事件处理、Hooks 类型、泛型组件、React 19 新特性 |
 
 ### Security
