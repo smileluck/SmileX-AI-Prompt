@@ -1,0 +1,52 @@
+{
+  "name": "narrator-ai-cli",
+  "version": "1.0.5",
+  "license": "MIT",
+  "description": "AI 电影/短剧解说视频自动生成 CLI Skill — 内置电影素材库、BGM、多语种配音、解说模板，全流程自动化",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill",
+    "owner": "NarratorAI-Studio",
+    "repo": "narrator-ai-cli-skill",
+    "default_branch": "main"
+  },
+  "tags": [
+    "video-narration",
+    "film-commentary",
+    "ai-video",
+    "short-drama",
+    "content-creation",
+    "dubbing",
+    "tts",
+    "video-production"
+  ],
+  "metadata": {
+    "stars": 295,
+    "forks": 46,
+    "language": null,
+    "created_at": "2026-03-19",
+    "updated_at": "2026-04-30",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-video",
+      "claude-code",
+      "claude-code-skill",
+      "content-creation",
+      "cursor",
+      "film-commentary",
+      "narrator-ai",
+      "openclaw",
+      "openclaw-skill",
+      "short-drama",
+      "skill-md",
+      "video-narration",
+      "windsurf"
+    ]
+  },
+  "tracking": {
+    "tracked_at": "2026-04-30",
+    "status": "active",
+    "category": "content-creation"
+  }
+}

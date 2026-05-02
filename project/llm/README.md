@@ -10,3 +10,12 @@
 - **语言**: Python
 - **描述**: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - **主题**: agents, llms, python, rag
+
+### [markitdown](https://github.com/microsoft/markitdown)
+- **追踪时间**: 2026-04-30
+- **星标**: ⭐ 40,140
+- **Fork**: 1,877
+- **语言**: Python
+- **许可证**: MIT
+- **描述**: Python tool for converting files and office documents to Markdown.
+- **主题**: autogen, autogen-extension, langchain, markdown, microsoft-office, openai, pdf

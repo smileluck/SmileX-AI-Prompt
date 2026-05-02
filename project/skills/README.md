@@ -21,6 +21,8 @@ skills/
 │   └── brainstorming/
 ├── frontend/           # 前端设计技能
 │   └── frontend-design/
+├── content-creation/   # 内容创作技能
+│   └── narrator-ai-cli-skill/
 └── prompts/             # Prompt 类型技能
 ```
 
@@ -69,6 +71,12 @@ skills/
 | 技能名称 | 来源 | 收录时间 | 描述 |
 |---------|------|---------|------|
 | [frontend-design](./frontend/frontend-design/) | skills.sh/anthropics/skills | 2026-04-15 | 指导创建独特、生产级前端界面的技能，避免通用 AI 风格，注重美学细节和创意实现 |
+
+### Content Creation
+
+| 技能名称 | 来源 | 收录时间 | 描述 |
+|---------|------|---------|------|
+| [narrator-ai-cli-skill](./content-creation/narrator-ai-cli-skill/) | github.com/NarratorAI-Studio | 2026-04-30 | AI 电影/短剧解说视频自动生成 CLI Skill，内置电影素材库、BGM、多语种配音、解说模板，全流程自动化 |
 
 ## 使用说明
 
