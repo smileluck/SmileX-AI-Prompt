@@ -11,7 +11,7 @@ dependencies: []
 
 # Framework Guide Collector
 
-本技能帮助从指定 URL 收集、解析和整理开发框架文档，生成模块化的 Markdown 使用指南。
+从网页 URL 收集并整理开发框架文档，生成模块化的 Markdown 使用指南。详细介绍请参阅 [README.md](./README.md)。
 
 ## 触发条件
 
