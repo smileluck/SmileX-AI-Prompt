@@ -23,7 +23,6 @@ skills/
 │   └── frontend-design/
 ├── content-creation/    # 内容创作技能
 │   └── narrator-ai-cli-skill/
-├── marketing/           # 营销技能
 └── prompts/             # Prompt 类型技能
 ```
 
@@ -83,13 +82,18 @@ skills/
 
 | 技能名称 | 来源 | 收录时间 | 描述 |
 |---------|------|---------|------|
-| [marketingskills](https://github.com/coreyhaines31/marketingskills) | GitHub/coreyhaines31 | 2026-05-13 | 面向 Claude Code 和 AI Agent 的营销技能集合，涵盖 CRO（转化率优化）、文案撰写、SEO、数据分析和增长工程等 41 个专业营销技能模块。适用于技术营销人员和创业者，让 AI 编程助手协助完成转化优化、文案创作、SEO 审计、分析追踪和增长实验等营销任务。兼容 Claude Code、OpenAI Codex、Cursor、Windsurf 等主流 AI 编程工具 |
+| [marketingskills](../../prompts/collection/marketingskills.md) | GitHub/coreyhaines31 | 2026-05-13 | 面向 Claude Code 和 AI Agent 的营销技能集合，涵盖 CRO、文案撰写、SEO、数据分析和增长工程等 41 个专业营销技能模块 |
 
-## 使用说明
+### AI 智能体
 
-每个技能目录下包含：
-- `SKILL.md` - 技能完整内容
-- `META.json` - 元数据信息
+| 技能名称 | 来源 | 收录时间 | 描述 |
+|---------|------|---------|------|
+| [agency-agents-zh](../../prompts/collection/agency-agents-zh.md) | GitHub/jnMetaCode | 2026-04-30 | 186 个即插即用的 AI 专家人格中文版，涵盖工程、设计、营销、销售、金融等领域，每个都有独特的专业技能和可落地的工作流 |
+
+## 存储方式
+
+- **skills.sh 来源**：存放于 `project/skills/{category}/{name}/`，包含 `SKILL.md` + `META.json`
+- **GitHub 来源**：存放于 `prompts/collection/{name}.md`，包含完整收录信息和元数据 frontmatter
 
 ## 收录方式
 
